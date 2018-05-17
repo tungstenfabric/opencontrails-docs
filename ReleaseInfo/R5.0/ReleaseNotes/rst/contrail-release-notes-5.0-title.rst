@@ -1,7 +1,7 @@
 
-====================
-Contrail Release 5.0
-====================
+===========================
+Tungsten Fabric Release 5.0
+===========================
 
 =============
 Release Notes
@@ -9,7 +9,7 @@ Release Notes
 
 Release 5.0
 
-April 2018
+May 2018
 
 Table of Contents
 =================
@@ -19,10 +19,10 @@ Table of Contents
 
    -  `New and Changed Features`_ 
 
-     -  `Ansible Scripts to Provision Contrail`_ 
+     -  `Ansible Scripts to Provision Tungsten Fabric`_ 
 
 
-     -  `Contrail Microservices`_ 
+     -  `Tungsten Fabric Microservices`_ 
 
 
      -  `Containerization of DPDK vRouter`_ 
@@ -37,7 +37,7 @@ Table of Contents
      -  `Fat Flow Enhancements`_ 
 
 
-     -  `Implementing Kubernetes Network Policy with Contrail Firewall Policy`_ 
+     -  `Implementing Kubernetes Network Policy with Tungsten Fabric Firewall Policy`_ 
 
 
      -  `Kubernetes Updates`_ 
@@ -55,7 +55,7 @@ Table of Contents
      -  `Support for Security Policies Draft Mode`_ 
 
 
-     -  `Support for Virtual Network Route Tables in Contrail Introspect`_ 
+     -  `Support for Virtual Network Route Tables in Tungsten Fabric Introspect`_ 
 
 
      -  `Support for a Flow-Hold Entries Counter in vRouter UVEs`_ 
@@ -67,26 +67,23 @@ Table of Contents
      -  `Timestamp In UVE Stream Response`_ 
 
 
-     -  `Using Helm Charts to Provision Contrail`_ 
+     -  `Using Helm Charts to Provision Tungsten Fabric`_ 
 
 
-     -  `Contrail Plugin For VMware vRealize Orchestrator—Beta`_ 
+     -  `Tungsten Fabric Plugin For VMware vRealize Orchestrator—Beta`_ 
 
 
-     -  `RBAC Support for Contrail Analytics API—Beta`_ 
+     -  `RBAC Support for Tungsten Fabric Analytics API—Beta`_ 
 
 
      -  `Remote Compute—Beta`_ 
-
-
-     -  `Contrail Cloud`_ 
 
 
      -  `OpenShift Enterprise`_ 
 
 
 
-   -  `Supported Platforms Contrail 5.0`_ 
+   -  `Supported Platforms Tungsten Fabric 5.0`_ 
 
 
    -  `Known Behavior`_ 
@@ -108,9 +105,9 @@ Table of Contents
 
 .. _New and Changed Features:  new-and-changed-features.html
 
-.. _Ansible Scripts to Provision Contrail:  new-and-changed-features.html
+.. _Ansible Scripts to Provision Tungsten Fabric:  new-and-changed-features.html
 
-.. _Contrail Microservices:  new-and-changed-features.html
+.. _Tungsten Fabric Microservices:  new-and-changed-features.html
 
 .. _Containerization of DPDK vRouter:  new-and-changed-features.html
 
@@ -120,7 +117,7 @@ Table of Contents
 
 .. _Fat Flow Enhancements:  new-and-changed-features.html
 
-.. _Implementing Kubernetes Network Policy with Contrail Firewall Policy:  new-and-changed-features.html
+.. _Implementing Kubernetes Network Policy with Tungsten Fabric Firewall Policy:  new-and-changed-features.html
 
 .. _Kubernetes Updates:  new-and-changed-features.html
 
@@ -132,7 +129,7 @@ Table of Contents
 
 .. _Support for Security Policies Draft Mode:  new-and-changed-features.html
 
-.. _Support for Virtual Network Route Tables in Contrail Introspect:  new-and-changed-features.html
+.. _Support for Virtual Network Route Tables in Tungsten Fabric Introspect:  new-and-changed-features.html
 
 .. _Support for a Flow-Hold Entries Counter in vRouter UVEs:  new-and-changed-features.html
 
@@ -140,19 +137,17 @@ Table of Contents
 
 .. _Timestamp In UVE Stream Response:  new-and-changed-features.html
 
-.. _Using Helm Charts to Provision Contrail:  new-and-changed-features.html
+.. _Using Helm Charts to Provision Tungsten Fabric:  new-and-changed-features.html
 
-.. _Contrail Plugin For VMware vRealize Orchestrator—Beta:  new-and-changed-features.html
+.. _Tungsten Fabric Plugin For VMware vRealize Orchestrator—Beta:  new-and-changed-features.html
 
-.. _RBAC Support for Contrail Analytics API—Beta:  new-and-changed-features.html
+.. _RBAC Support for Tungsten Fabric Analytics API—Beta:  new-and-changed-features.html
 
 .. _Remote Compute—Beta:  new-and-changed-features.html
 
-.. _Contrail Cloud:  new-and-changed-features.html
-
 .. _OpenShift Enterprise:  new-and-changed-features.html
 
-.. _Supported Platforms Contrail 5.0:  supported-platforms-50-vnc.html
+.. _Supported Platforms Tungsten Fabric 5.0:  supported-platforms-50-vnc.html
 
 .. _Known Behavior:  known-behavior.html
 

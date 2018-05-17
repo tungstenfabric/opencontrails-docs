@@ -1,7 +1,7 @@
 
-===========================
-Release Notes: Contrail 5.0
-===========================
+==================================
+Release Notes: Tungsten Fabric 5.0
+==================================
 
     `Table of Contents`_
 
@@ -9,7 +9,7 @@ Release Notes: Contrail 5.0
 
     `New and Changed Features`_
 
-    `Supported Platforms Contrail 5.0`_
+    `Supported Platforms Tungsten Fabric 5.0`_
 
     `Known Behavior`_
 
@@ -40,7 +40,7 @@ Release Notes: Contrail 5.0
 
 .. _New and Changed Features: new-and-changed-features.html
 
-.. _Supported Platforms Contrail 5.0: supported-platforms-50-vnc.html
+.. _Supported Platforms Tungsten Fabric 5.0: supported-platforms-50-vnc.html
 
 .. _Known Behavior: known-behavior.html
 

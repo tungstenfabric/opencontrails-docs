@@ -15,7 +15,7 @@ There is no workaround at present.
 As a workaround, the head fragment is enqueued to assembler only after flow action is written by agent. If the flow is already present in non-hold state, it is immediately enqueued to assembler.
 
 
-- 1730021 In Contrail Security, non-admin users cannot access global scope objects when  global_accessis set to  0.
+- 1730021 In Tungsten Fabric Security, non-admin users cannot access global scope objects when  global_accessis set to  0.
 
 As a workaround, for non-admin users to access global scope objects, set  global_accessto  5.
 
@@ -25,7 +25,7 @@ As a workaround, for non-admin users to access global scope objects, set  global
 
 - 1735590 In Kubernetes and OpenShift based deployments when we crate SNAT router and extend cluster-network to that SNAT router host is losing all connectivity.
 
-As a workaround, if you want to use the SNAT feature in Contrail, disassociate the ip-fabric-cluster-network-default policy and delete it.
+As a workaround, if you want to use the SNAT feature in Tungsten Fabric, disassociate the ip-fabric-cluster-network-default policy and delete it.
 
 
 - 1749614 In a Helm-based provisioned cluster, VM launch fails if MariaDB replication is set to >1.
@@ -64,7 +64,7 @@ As a workaround, if you want to use the SNAT feature in Contrail, disassociate t
 - 1766035 On a Kubernetes cluster, a controller node reboot fails to re-establish the BGP XMPP connection with compute nodes. As a workaround, flush the iptables on the Kubernetes master.
 
 
-- 1766315 After provisioning Contrail by using a Helm-based provisioned cluster, restart nova-compute container.
+- 1766315 After provisioning Tungsten Fabric by using a Helm-based provisioned cluster, restart nova-compute container.
 
 
 - 1766371 OpenShift use cases work in non-HA environments only.
@@ -73,7 +73,7 @@ As a workaround, if you want to use the SNAT feature in Contrail, disassociate t
 - 1767094 Kube DNS fails to come online come up in a multi-interface setup.
 
 
-- 1767466 In Contrail 5.0 release, with Contrail Helm charts, Kubernetes ingress Web UI URL does not work when Web UI is started with secure (TLS) option.
+- 1767466 In Tungsten Fabric 5.0 release, with Tungsten Fabric Helm charts, Kubernetes ingress Web UI URL does not work when Web UI is started with secure (TLS) option.
 
 
 - 1767470 SR-IOV installation is not supported with contrail-helm-deployer.
