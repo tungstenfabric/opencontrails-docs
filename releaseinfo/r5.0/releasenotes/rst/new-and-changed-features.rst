@@ -65,9 +65,6 @@ The features listed in this section are new or changed as of Tungsten Fabric Rel
    -  `Remote Compute—Beta`_ 
 
 
-   -  `Contrail Cloud`_ 
-
-
    -  `OpenShift Enterprise`_ 
 
 
