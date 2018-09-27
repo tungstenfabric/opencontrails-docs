@@ -50,9 +50,9 @@ URL #8: https://s3.eu-west-2.amazonaws.com/contrail-k8s-workshop/contrail-50-kub
 
 You are going to do some basic experiments in a shared test. Here are the resulting VMs after applying that procedure on URL #4 plus some VM renaming and after adding root password access:
 
-K8s Master + Controller: ssh root@18.130.5.116 / tungsten123
-K8s Compute #1: ssh root@3.8.16.209 / tungsten123
-K8s Compute #2: ssh root@3.8.16.108 / tungsten123
+* K8s Master + Controller: ssh root@18.130.5.116 / tungsten123
+* K8s Compute #1: ssh root@3.8.16.209 / tungsten123
+* K8s Compute #2: ssh root@3.8.16.108 / tungsten123
 
 All the following commands are to be executed on the controller and let's start with a very existential question. What is your nickname? OK whatever your nickname is (and make sure it's not Joe or Phil but something more unique) it becomes <your_name> from now on.
 
