@@ -54,7 +54,7 @@ metadata:
  name: "<your_name>"
  annotations: {
        "opencontrail.org/isolation" : "true",
- }```
+ }´´´
 
 The instructor is also going
 
