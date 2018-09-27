@@ -4,9 +4,15 @@ You can access this page also through the following shortcut: https://tinyurl.co
 
 # 1. Deploying Tungsten Fabric
 
-### 1.1. Where is Tungsten Fabric
+### 1.1. Where is Tungsten Fabric and its Deployer
+
+Source code is in different projects, for example:
 
 URL #1: https://hub.docker.com/u/opencontrailnightly/
+
+The depl
+
+https://github.com/Juniper/contrail-ansible-deployer/
 
 ### 1.2. TF + Kubernetes in AWS
 
@@ -32,7 +38,7 @@ URL #5: https://github.com/Juniper/contrail-ansible-deployer/wiki/Deployment-Exa
 
 # 2. Using TF
 
-# 2.1. Playing with the TF + Kubernetes integration
+### 2.1. Playing with the TF + Kubernetes integration
 
 For the record there is a complete guide here but do **NOT** follow it here.
 
@@ -48,16 +54,58 @@ All the following commands are to be executed on the controller and let's start 
 
 Use your super-advanced linux skills to create a file called <your_name>.yml and add the following content, making sure you replace <your_name> appropriately:
 
-```apiVersion: v1
+```
+apiVersion: v1
 kind: Namespace
 metadata:
  name: "<your_name>"
  annotations: {
        "opencontrail.org/isolation" : "true",
- }´´´
+}
+```
 
-The instructor is also going
+Next, apply the following steps (thinking and/or waiting in between, and assuming that last night chaos still left a neurone alive):
+
+```
+kubectl create -f <your_name>.yml  ### ask the instructor to refresh the UI
+kubectl get ns
+kubectl describe ns/<your_name>
+
+cd k8s-demo
+cat po-ubuntuapp.yml
+kubectl create -n <your_name> -f po-ubuntuapp.yml
+kubectl get pods -n <your_name> -o wide
+
+cat rc-frontend.yml
+kubectl create -n <your_name> -f rc-frontend.yml
+kubectl get pods -n <your_name> -o wide
+
+kubectl expose -n <your_name> frontend
+kubectl get svc -n <your_name>
+
+kubectl exec -n <your_name> ubuntuapp curl frontend  ### repeat this several times in order to see the load balancing
+```
+
+Once this hello world is finished, the random guy in charge of the demo is going to show you some more advanced functionality.
+
+### 2.2. Playing with the TF + Kubernetes + Openstack integration
+
+This part is a demo.
 
 # 3. Building TF
+
+The complete procedure to build RPMs and containers with upstream code, plus your own changes, is here:
+
+URL #7: https://github.com/Juniper/contrail-dev-env
+
+For the record the container build info is here:
+
+URL #8: https://github.com/Juniper/contrail-container-builder
+
+For the record the container build info is here:
+
+URL #7: https://github.com/Juniper/contrail-container-builder
+
+
 # 4. Debugging TF
 
