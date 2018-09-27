@@ -1,6 +1,6 @@
-https://tinyurl.com/yb5b5fza
+You can access this page also through the following shortcut: https://tinyurl.com/yb5b5fza
 
-**NOTE**: Always open URLs in a new tab or window
+**Always open URLs in a new tab or window**
 
 # 1. Deploying Tungsten Fabric
 
