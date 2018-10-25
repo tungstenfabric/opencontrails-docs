@@ -1,35 +1,47 @@
 # Welcome to the Tungsten Fabric Community
 Tungsten Fabric is the new name of the Open Source project formerly known as
 OpenContrail. We have reorganized the governance structure and welcome new
-contributors. The following public meetings are held weekly via Zoom conference
-call and all participants are welcome.
+contributors.
 
-## Governance Working Group
+Some useful websites are:  
+Main top level website: https://tungsten.io  
+Wiki: https://wiki.tungsten.io  
+Issue Tracker: https://jira.tungsten.io (Future use)  
+Mailing lists: https://lists.tungsten.io  
+Code review: https://gerrit.tungsten.io (Future use)  
+Legacy issue tracker: https://launchpad.net/opencontrail  
+Legacy issue tracker: https://launchpad.net/juniperopenstack  
+Legacy code review: https://review.opencontrail.org  
+
+The following public meetings are held weekly via Zoom conference call and all
+participants are welcome.
+
+## Community Committee
 This group was initially formed to lead the reorganization of the community and
-it will be subsumed into the Technical Steering Committee when Tungsten Fabric
-joins the Linux Foundation Networking series of projects.
+was subsumed into the Technical Steering Committee when Tungsten Fabric joined
+the Linux Foundation Networking series of projects.
 
 Date: Every Friday  
 Time: 1100 Pacific Time (1800 UTC during US Daylight Savings Time)  
 Meeting URL: https://zoom.us/j/312953241  
-[Preliminary Membership](GovernanceWG/Members) Non-members are welcome to
-participate in this meeting.
+[Preliminary Membership](Governance/CommunityCommittee/CC_Members) Non-members
+are welcome to participate in this meeting.
 
-## Technical Steering Committee Working Group
-This group was initially formed as a precursor to a TSC and will be subsumed in
-the Tungsten Fabric TSC along with the GWG when the project joins the Linux
-Foundation Networking series of projects.
+## Technical Committee
+This group was initially formed as a precursor to a TSC and was subsumed into
+the Tungsten Fabric TSC along with the Community Committee  when the project
+joined the Linux Foundation Networking series of projects.
 
 Date: Every Tuesday  
 Time: 0900 Pacific Time (1600 UTC during US Daylight Savings Time)  
 Meeting URL: https://zoom.us/j/657751249  
-Agenda/Minutes URL: https://docs.google.com/document/d/1FIO30YiqDPcXkrJ-oFKPPBoJddHRiFo04T5KRFooT0k/edit  
-[Preliminary Membership](TSCWG/TSC_Members) Non-members are welcome to
-participate in this meeting.
-The TSC also oversees the Architecture Review Board which does not meet
+Agenda/Minutes URL: https://wiki.tungsten.io/display/TUN/Community+Technical+Working+Group
+[Preliminary Membership](Governance/TechnicalCommittee/TC_Members) Non-members
+are welcome to participate in this meeting.
+The TC also oversees the Architecture Review Board which does not meet
 regularly and is primarily responsible for reviewing specs in the  
 [Contrail Specs Repository](https://github.com/Juniper/contrail-specs)
-[ARB Membership](TSCWG/ARB_Members)
+[ARB Membership](Governance/ArchitectureReviewBoard/ARB_Members)
 
 ## Community Infrastructure Working Group
 This group addresses technical work on the Continuous Integration (CI) system
@@ -40,7 +52,7 @@ with the developer environment is welcome to join.
 Date: Every Tuesday  
 Time: Alternating 1200/1800 UTC (Check Agenda/Minutes URL for alternation)  
 Meeting URL: https://zoom.us/j/172248735  
-Agenda/Minutes URL: https://docs.google.com/document/d/1y228rWTUanvJfV-G85RByOlKRCApMf9m2Gj7g2wIi6g/edit
+Agenda/Minutes URL: https://wiki.tungsten.io/display/TUN/Community+Infrastructure+Working+Group
 
 ## Documentation Team Meeting
 This group works on the user and developer facing documentation.
