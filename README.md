@@ -65,3 +65,9 @@ Meeting URL: https://meet.juniper.net/jamesk/U5FBA7NC
 Documentation repos:
  - User docs: https://github.com/Juniper/contrail-docs
  - Contributor docs: https://github.com/tungstenfabric/docs
+
+## Licensing
+
+All documentation received to and made available by the Tungsten Fabric community, including but not limited to the documentation in this repository, is licensed under the Creative Commons Attribution 4.0 International License.
+
+Please see the `LICENSE` file for complete information.
