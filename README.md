@@ -6,11 +6,11 @@ contributors.
 Some useful websites are:  
 Main top level website: https://tungsten.io  
 Wiki: https://wiki.tungsten.io  
-Issue Tracker: https://jira.tungsten.io (Future use)  
+Issue Tracker: https://jira.tungsten.io 
 Mailing lists: https://lists.tungsten.io  
-Code review: https://gerrit.tungsten.io (Future use)  
-Legacy issue tracker: https://launchpad.net/opencontrail  
-Legacy issue tracker: https://launchpad.net/juniperopenstack  
+Code review: https://gerrit.tungsten.io 
+Legacy issue tracker #1: https://launchpad.net/opencontrail  
+Legacy issue tracker #2: https://launchpad.net/juniperopenstack  
 Legacy code review: https://review.opencontrail.org  
 
 The following public meetings are held weekly via Zoom conference call and all
