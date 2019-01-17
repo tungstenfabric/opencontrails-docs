@@ -21,7 +21,7 @@ The [Election Mechanics](https://wiki.tungsten.io/display/TUN/Election+Mechanics
 
 All of these things are visualised in [this diagram](./TSCVotersAndCandidates/TSCVotersAndCandidates-diagram.png):
 
-![TF TSC Voters and Candidates Diagram]((./TSCVotersAndCandidates/TSCVotersAndCandidates-diagram.png =400px)
+![TF TSC Voters and Candidates Diagram](./TSCVotersAndCandidates/TSCVotersAndCandidates-diagram.png =400px)
 
 ### The basic groups in the TF community
 
