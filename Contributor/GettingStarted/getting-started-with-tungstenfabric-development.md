@@ -1,7 +1,7 @@
 Getting Started with Tungsten Fabric Development
 ==================================
 This brief note would serve as a reference for a developer looking to start-up
-on the Tungsten Fabric development envrionment.
+on the Tungsten Fabric development environment.
 
 PLEASE NOTE: Until 2018, Tungsten Fabric was named "OpenContrail". There are still several references to the old name in the code and other utilities.
 
