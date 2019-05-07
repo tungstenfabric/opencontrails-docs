@@ -73,7 +73,15 @@ Each project should strive for diversity of Committers representing different or
 4.1.2 Project Technical Leader:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A project is required to elect a Project Technical Leader (“PTL”). The PTL acts as the de facto spokesperson for the project.
+A project is required to elect a Project Technical Leader (“PTL”). The primary responsibilities of the PTL are:
+
+- Manage day to day operations of the project, including cross-project coordination to ensure Project delivery according to the Tungsten Fabric release schedule
+
+- Act as the de facto spokesperson for the Project
+
+- Represent the Project in the TSC and other necessary meetings
+
+- Resolve conflicts that may arise within the Project
 
 4.1.2.1 Project Technical Leader Candidates
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
