@@ -1,3 +1,5 @@
+> ⚠️ To report a bug for any part of the Tungsten Fabric project, including documentation, please use the [Tungsten Fabric Jira](https://jira.tungsten.io). ⚠️
+
 # Welcome to the Tungsten Fabric Community!
 
 Tungsten Fabric (formerly known as OpenContrail) is a secure software defined networking project designed for the cloud native, multicloud environment. Placing it on top of any IP network allows you to have a single portal for defining, monitoring, and analyzing your entire multicloud network, its security, and its performance.
