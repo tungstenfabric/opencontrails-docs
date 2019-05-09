@@ -1,4 +1,8 @@
-> ⚠️ To report a bug for any part of the Tungsten Fabric project, including documentation, please use the [Tungsten Fabric Jira](https://jira.tungsten.io). ⚠️
+> ⚠️ 
+
+> To report a bug for any part of the Tungsten Fabric project, including documentation, please use the [Tungsten Fabric Jira](https://jira.tungsten.io). 
+
+> ⚠️
 
 # Welcome to the Tungsten Fabric Community!
 
