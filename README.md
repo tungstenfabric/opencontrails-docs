@@ -68,7 +68,7 @@ This group works on the user and developer facing documentation.
 This group works to get the word out about Tungsten Fabric and promote TF usage and adoption.
 
 * Date: Every Friday
-* Time: 0800 Pacific Time (1500 UTC during US Daylight Savings Time)
+* Time: 1030 Pacific Time (1730 UTC during US Daylight Savings Time)
 * Meeting URL: https://zoom.us/j/742093023
 * Agenda/Minutes: https://wiki.tungsten.io/display/TUN/Marketing+Working+Group+Meetings
 
