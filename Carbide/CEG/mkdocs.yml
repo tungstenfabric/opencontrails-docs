@@ -1,0 +1,10 @@
+site_name: Tungsten Fabric Carbide Evaluation Guide
+theme:
+    name: mkdocs
+    feature:
+      tabs: false
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - bash
+        - text
